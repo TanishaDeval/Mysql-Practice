@@ -5,4 +5,5 @@ It’s so simple and fun! 🎉
 In this video, we’ve taken a dance competition and turned it into a cool database example 💃📊
 Watch how we use the ORDER BY clause to sort students from Junior to Higher classes—all in style!
 [lInkedIn](https://www.linkedin.com/posts/tanisha-deval-59952527b_sql-orderbyclause-dancecompetition-activity-7333380601447710720-ElS4?utm_source=share&utm_medium=member_android&rcm=ACoAAEQ-MwUBlX3UEf-J--8C6j9uw5rIbdROkyU)
-
+Step-by-Step Guide for Beginners 👶💥🔴  INNER JOIN in SQL — Simple Query with Full Explanation! 📊✨
+[youtube](https://youtube.com/shorts/ssNV_3L8SCY?si=YTniolLqvGj-Y-FB)
