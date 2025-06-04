@@ -9,3 +9,5 @@ Step-by-Step Guide for Beginners 👶💥🔴  INNER JOIN in SQL — Simple Quer
 [youtube](https://youtube.com/shorts/ssNV_3L8SCY?si=YTniolLqvGj-Y-FB)
 ✅ "LEFT JOIN in SQL – Zomato Example 🍕 | 40 Sec Concept Clear"
 [youtube](https://youtube.com/shorts/xjSSsfQoRjo?si=aJfeUVnvLPRs8vJx)
+💡 FULL JOIN in MySQL Explained with 3 Idiots Style! | Easy & Fun SQL Tutorial 😄📊
+[youtube](https://youtube.com/shorts/J5Klwpxou7Y?si=hwN1m_w8a8KwE7Dj)
