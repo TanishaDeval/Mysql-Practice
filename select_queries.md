@@ -16,3 +16,5 @@ Step-by-Step Guide for Beginners 👶💥🔴  INNER JOIN in SQL — Simple Quer
 [youtube](https://youtube.com/shorts/TYEgYThqukg?si=HlbvxSuOVIvnGnse)
 💡 FULL JOIN in MySQL Explained with 3 Idiots Style! | Easy & Fun SQL Tutorial 😄📊
 [youtube](https://youtube.com/shorts/J5Klwpxou7Y?si=hwN1m_w8a8KwE7Dj)
+🏏💻 "Learn MySQL SELECT Query with IPL 2025 Example 🔥 | Easy & Fun Explanation 😊📊"
+[youtube](https://youtube.com/shorts/tzDurSaef2E?si=2qST_pjALYASAMHs)
